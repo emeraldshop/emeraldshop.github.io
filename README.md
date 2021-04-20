@@ -10,7 +10,7 @@
 
 ### Как купить?
 
-1) Перейдите по ссылке: https://www.donationalerts.com/r/emeraldshop
+1) Перейдите по ссылке: [donationalerts.com/r/emeraldshop](https://www.donationalerts.com/r/emeraldshop)
 
 2) Выберите любое имя, так Вы будете указаны в очереди (не вставляйте имя ВК и игровой ник, для вашей безопасности) ```Пример: Котик777```
 
