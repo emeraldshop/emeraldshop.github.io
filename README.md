@@ -2,7 +2,7 @@
 
 ![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png)
 
-`20 рублей`
+`Овощной суперкомплекс - 20 рублей`
 
 ### Markdown
 
