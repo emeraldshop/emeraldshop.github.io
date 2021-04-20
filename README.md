@@ -1,6 +1,10 @@
 ## Цены
 ![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png) ![Кондоминиум](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/kondominium.png) 
 
+```
+Овощной суперкомплекс(50 изумрудов) - 20 рублей.
+Кондоминиум(30 изумрудов) - 10 рублей.
+```
 
 ### Markdown
 
