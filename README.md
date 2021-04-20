@@ -1,8 +1,8 @@
 ## Цены
 
-![20 рублей](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png)
+![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png)
 
-20 рублей
+`20 рублей`
 
 ### Markdown
 
