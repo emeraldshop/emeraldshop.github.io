@@ -7,26 +7,17 @@
 Водокачка(50 изумрудов) - 20 рублей
 ```
 
-### Markdown
+### Как купить?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+1) Перейдите по ссылке: https://www.donationalerts.com/r/emeraldshop
+2) Выберите любое имя, так Вы будете указаны в очереди (не вставляйте имя ВК и игровой ник, для вашей безопасности) ```Пример: Котик777```
+3) Заполните форму: ваш ID VK, товар + количество...```Пример: 12345678, Овощной суперкомплекс 1, Кондоминиум 1```
+4) Выберите соответствующую сумму и оплатите заказ
+5) Выставите торговцев на домашней станции (убедитесь что они выстоят 18 часов) в обмен любой предмет без лимита на единицу товара (обязательно один торговец - один товар)
+6) Ожидайте от 10 минут до 18 часов, проверяйте очередь ниже
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Очередь:
+пусто
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
