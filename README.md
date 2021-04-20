@@ -1,10 +1,11 @@
 ## Цены
-![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png) ![Кондоминиум](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/kondominium.png) ![Водокачка](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/vodokachka.png) 
+![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png) ![Кондоминиум](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/kondominium.png) ![Водокачка](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/vodokachka.png) ![Отель 3](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/hotel.png) 
 
 ```
 Овощной суперкомплекс(50 изумрудов) - 20 рублей
 Кондоминиум(30 изумрудов) - 10 рублей
 Водокачка(50 изумрудов) - 20 рублей
+Отель 3*(80 изумрудов) - 40 рублей
 ```
 
 ### Как купить?
@@ -25,9 +26,11 @@
 пусто
 ```
 
-### Полная анонимность и безопасность
+### Анонимность и безопасность
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emeraldshop/emeraldshop.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Вам не нужно добавлять Нас в друзья/соседи для получения заказа
+
+Мы не разглашаем наших покупателей
 
 ### По вопросам
 
