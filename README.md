@@ -1,5 +1,5 @@
 ## Цены
-![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/supercomple.png) ![Кондоминиум](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/kondominium.png) 
+![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png) ![Кондоминиум](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/kondominium.png) 
 
 
 ### Markdown
