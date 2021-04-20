@@ -39,7 +39,7 @@
 6) Ожидайте от 10 минут до 18 часов, проверяйте очередь ниже
 ```markdown
 Очередь:
-qwe
+qwe **выдано 18:58**
 демон **выдано 18:50**
 ```
 
@@ -52,3 +52,5 @@ qwe
 ### По вопросам
 
 Discord: **hxwl@3325**
+
+![test](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/test.gif)
