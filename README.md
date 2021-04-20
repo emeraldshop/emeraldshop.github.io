@@ -1,8 +1,7 @@
-## Цены kondominium.png
-
+## Цены
 ![Суперкомплекс](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/super.png) ![Кондоминиум](https://github.com/emeraldshop/emeraldshop.github.io/raw/main/kondominium.png) 
 
-`Овощной суперкомплекс - 20 рублей` `Кондоминиум - 20 рублей`
+`20 рублей` `14 рублей`
 
 ### Markdown
 
